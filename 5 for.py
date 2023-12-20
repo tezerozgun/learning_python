@@ -44,13 +44,6 @@ isim = ['Ozgun Tezer','Ilayda Cinar','Ozgun','Ilayda']
 for i in isim:
     print(i)
 
-kullanici_sayisi = 0
-
-for kullanici in kullanici_sayisi:
-    kullanici_sayisi = kullanici_sayisi + 1
-    print(kullanici_sayisi , kullanici)
-
-
 
 
 
